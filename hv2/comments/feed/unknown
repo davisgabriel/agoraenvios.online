@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comentários sobre Havan Brasil	</title>
-	<atom:link href="https://brasilhavan.com/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://brasilhavan.com</link>
+	Comentários sobre portaldanoticiasdobr.online	</title>
+	<atom:link href="https://portaldanoticiasdobr.online/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://portaldanoticiasdobr.online</link>
 	<description></description>
-	<lastBuildDate>Tue, 12 Dec 2023 11:24:20 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Dec 2023 22:58:31 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comentário sobre Olá, mundo! por Um comentarista do WordPress		</title>
-		<link>https://brasilhavan.com/ola-mundo/#comment-1</link>
+		<link>https://portaldanoticiasdobr.online/ola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Um comentarista do WordPress]]></dc:creator>
-		<pubDate>Tue, 12 Dec 2023 11:24:20 +0000</pubDate>
-		<guid isPermaLink="false">https://brasilhavan.com/?p=1#comment-1</guid>
+		<pubDate>Mon, 25 Dec 2023 22:58:31 +0000</pubDate>
+		<guid isPermaLink="false">http://portaldanoticiasdobr.online/?p=1#comment-1</guid>
 
 					<description><![CDATA[Oi, isto é um comentário.
 Para iniciar a moderar, editar e excluir comentários, visite a tela Comentários no painel.
